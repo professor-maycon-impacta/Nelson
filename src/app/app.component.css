@@ -1,0 +1,20 @@
+.endereco{
+    margin-left: 10px;
+  }
+  
+  .dados{
+    margin-left: 10px; 
+  }
+  
+  .dados h2{
+      transition-property: border-color;
+      transition-duration: 1s;
+      opacity:0.5;
+      color: rgb(rgb(47, 76, 158), rgb(39, 41, 165), rgb(4, 4, 37));
+    }
+  
+    .dados h2:hover{
+      transition-property: border-color;
+      transition-duration: 1s;
+      color: black;
+    }
